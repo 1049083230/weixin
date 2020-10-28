@@ -1,0 +1,4 @@
+test\demo\controller\TestController.class
+test\demo\DemoApplication.class
+test\demo\utils\HttpClientUtil.class
+test\demo\doman\Oautch.class
